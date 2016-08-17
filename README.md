@@ -1,7 +1,5 @@
 # Visualisation of gene set enrichment
 
-This is an example application for Shiny.
-
 ![Screenshot](genset.png)
 
 ## Dependencies
